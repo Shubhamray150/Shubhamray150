@@ -1,7 +1,11 @@
-x## Hi EveryOne 👋
+**Hi EveryOne 👋**
 
 I’m Shubham, a frontend developer from India.
+I love building clean, fast, and user-friendly interfaces using React, JavaScript, and modern UI frameworks.
+Currently, I’m learning Full-Stack Development to become more confident with backend systems and complete product building.
+This profile includes projects I’m experimenting with, things I’m learning, and real-world apps built from scratch.
 
+---
 
 🔧 Tools & Tech
 
@@ -11,20 +15,9 @@ I’m Shubham, a frontend developer from India.
 - Learning: Node.js, Express, MongoDB
 
 ---
+🌱 What I'm Currently Doing
 
+- Expanding my skills into Full-Stack Development
+- Strengthening DSA & core programming in Java
+- Building real-world projects to improve problem-solving
 
-
-<!--
-**Shubhamray150/Shubhamray150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,4 +1,18 @@
-## Hi there 👋
+x## Hi EveryOne 👋
+
+I’m Shubham, a frontend developer from India.
+
+
+🔧 Tools & Tech
+
+- React, JavaScript, HTML, CSS
+- Tailwind CSS, Bootstrap
+- Git & GitHub
+- Learning: Node.js, Express, MongoDB
+
+---
+
+
 
 <!--
 **Shubhamray150/Shubhamray150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
